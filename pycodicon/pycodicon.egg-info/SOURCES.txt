@@ -4,6 +4,7 @@ pyproject.toml
 codicon/__init__.py
 codicon/archivus.py
 codicon/common.py
+codicon/gods.py
 codicon/graphos.py
 codicon/logos.py
 codicon/machina.py

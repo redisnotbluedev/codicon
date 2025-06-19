@@ -16,8 +16,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/redisnotbluedev/codicon"
+Issues = "https://github.com/redisnotbluedev/codicon/issues"
 
 [tool.setuptools]
 packages = ["codicon"]
