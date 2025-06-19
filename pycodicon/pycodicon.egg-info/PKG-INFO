@@ -1,10 +1,10 @@
 Metadata-Version: 2.4
 Name: pycodicon
-Version: 0.1.2
+Version: 0.1.3
 Summary: Python tools to sacrifice to the Codicon.
 Author-email: redisnotblue <ededmaude@gmail.com>
-Project-URL: Homepage, https://github.com/pypa/sampleproject
-Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Project-URL: Homepage, https://github.com/redisnotbluedev/codicon
+Project-URL: Issues, https://github.com/redisnotbluedev/codicon/issues
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE
