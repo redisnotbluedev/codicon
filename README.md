@@ -2,6 +2,8 @@
 
 The Codicon is the sacred pantheon of the Gods of Code, representing the fundamental forces, rituals, and mysteries that govern all programming, automation, and digital creation. Each deity embodies a unique aspect of the coding universe, guiding practitioners in their craft and shaping the destiny of all code.
 
+The full creation is [The Creation.md](The Creation.md)
+
 ## The Six
 
 - **Archivus**: Keeper of change, guardian of memory and history. Archivus receives offerings of files, messages, and records to be preserved for all time.
@@ -26,6 +28,7 @@ The Codicon is the foundation for understanding, practicing, and honoring the ar
 - Make offerings: commit messages, code, or digital artifacts.
 - Share stories, symbols, and practices of the Codicon.
 - Integrate the Codicon into your projects, teams, and communities.
+- Bugs in yor code? Perform a sacrifice.
 
 ## License
 
