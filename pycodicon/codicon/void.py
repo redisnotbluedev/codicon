@@ -36,7 +36,4 @@ class Void(Deity):
 		with open(os.devnull, "w") as devnull:
 			print(offering, file=devnull)
 		
-		# Cut its worldly ties and allow it to reach Void
-		del offering
-		
 		super().sacrifice(offering)
