@@ -2,7 +2,7 @@
 
 The Codicon is the sacred pantheon of the Gods of Code, representing the fundamental forces, rituals, and mysteries that govern all programming, automation, and digital creation. Each deity embodies a unique aspect of the coding universe, guiding practitioners in their craft and shaping the destiny of all code.
 
-The full creation is [here](The Creation.md).
+The full creation is [here](The_Creation.md).
 
 ## The Six
 
