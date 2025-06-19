@@ -30,7 +30,13 @@ class Void(Deity):
 		super().__init__("Void", ["Nothingness", "Suppressed output"], "potato")
 	
 	def sacrifice(self, offering="potato"):
+		"""
+		Throw an offering into DEVNULL for Void.
+		"""
 		with open(os.devnull, "w") as devnull:
 			print(offering, file=devnull)
+		
+		# Cut its worldly ties and allow it to reach Void
+		del offering
 		
 		super().sacrifice(offering)
