@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pycodicon"
-version = "0.1.1"
+version = "0.1.2"
 description = "Python tools to sacrifice to the Codicon."
 authors = [{ name="redisnotblue", email="ededmaude@gmail.com" }]
 readme = "README.md"
