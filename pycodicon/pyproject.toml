@@ -16,7 +16,4 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["find:"]
-
-[tool.setuptools.packages.find]
-where = ["."]
+packages = ["codicon"]
